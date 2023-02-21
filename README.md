@@ -9,6 +9,6 @@ server.java et client.java sont la question **2** utilisent data output et data 
 
 server2.java et client2.java sont la  question **2** utilisent object output stream et object input stream*** ***111***  ***
 
-server3.java et client.java et client4.java sont la question **3** utilisent 2 client 
+server3.java et client3.java et client4.java sont la question **3** utilisent 2 client 
 
 servermult.java clientmult.java  clientmult2.javasont l' implementation de code ***111*** avec multi threadsqui est la **5** eme question
